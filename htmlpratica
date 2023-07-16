@@ -1,0 +1,77 @@
+index.html
+
+<head>
+<title> Primeiro Projeto</title>
+</head>
+<body>
+<h1 style="color:red" id="inicio">Introdução ao HTML</h1>
+<hr />
+<h2>Índice</h2>
+<ul>
+    <li><a href="#client">Client e Server</a></li>
+    <li><a href="#navegadores">Navegadores</a></li>
+    <li><a href="#aplicações">Aplicções Web</a></li>
+    <li><a href="#linguagem">Linguagem de Programação</a></li>
+    <li><a href="#prática">HTML na prática</a></li>
+
+</ul>
+
+<h2 id="client">Client e Server</h2>
+<p> <mark>Client</mark> são dispositivos que estão consumindo a informação da internet.</p>
+<p> <mark>Server</mark> serve as informações para os clients.</p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h3> Arquivos Estáticos</h3>
+<p>São arquivos enviados do servidor para o client, vai depender da conexão que o client está utilizando. A velocidade da conexão afeta a experiência do usuário e também o tamanho do arquivo.</p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h4> Coche</h4>
+<p>Gerado pelo navegador. Pega os arquivos e armazena no computador do client, então quando ele acessar novament a página, o computador não vai procurar de novo no servidor, ele usa o que já foi salvo, evitando um tráfego inútil.</p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h5> Responsividade</h5>
+<p>São diferentes resoluções da página web que va,os criar, pensando que o client pode acessar do computador, celular, tablet, SmartWatch.</p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h2 id="navegadores">Navegadores</h2>
+<p> São programas criados por empresas para abrir arquivos, seguem padrões W3C, são também chamados de browsers.</p>
+<p> São ferramentas para utilizarmos a interner, cada um tem sua forma de 'tratar' a informação que vem do servidor, cada um tem sua definicção mas ambos seguem um padrão.</p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h6> Tipos de servidores</h6>
+<p> Temos dois exemplos importantes:</p>
+<ol>1 Proxy</ol>
+<p>Tipo de servidor que bloqueia alguns sites.</p>
+<ol>2 Firewall</ol>
+<p>Voltado para acesso externo, é uma forma de barreira de segurançã quando alguém quer enviar algum arquivo duvidoso.</p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h2 id="aplicações"> Aplicações Web</h2>
+<p> São soluções criadas que possuem a internet como meio de comunicação entre Client x Server, não sendo necessário a sua instalação.</p>
+<p> Quando você entra através do <strong>navegador</strong> do computador, celular ou tablet em um site como Youtube, Facebook, Twitter, difernete de quando você entra pelo aplicativo.</p>
+<p> <u>Quando você instala o aplicativo e utiliza por ele, deixa de ser uma Aplicação Web.</u></p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h2 id="Linguagem"> Linguagem de Programação</h2>
+<p> É uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (softwares).</p>
+<p> É um conjunto de informações que coloca no computador e vai executar de acordo com a lógica.</p>
+<p> As cinco linguagens mais utilizadas<sup>*</sup> são: 
+    <li> JavaScript </li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>PHP</li>
+    <li>C#</li>
+     <blockquote>*Cada uma tem sua forma e caracteristica, é interessante saber um pouco de cada.</blockquote>
+<p> <i><abbr title="HyperText Markup Language"> HTML</abbr> não é uma linguagem de programação, é um arquivo de marcação, é um arquivo texto com delimitador com funções específicas.</i></p>
+<small><a href="#inicio">Voltar</small></a>
+
+<h2 id="prática"> HTML na prática</h2>
+<p> Para realizar a prática utilizaremos o <a href="https://code.visualstudio.com/">Visual Studio Code </a>, uma ferramenta gratuita e que o download pode ser feito pesquisando pelo Google.</p>
+<p> Ao lado esquerdo do programa fica o Menu do Visual Studio e nele clicaremos em extenções e vamos baixar o LiveServer.</p>
+<small><a href="#inicio">Voltar</small></a>
+
+<p> <del datetime="2023-07-30T23:59:50Z"> Criado por Letícia Campos.</del></p>
+
+</body>
+
+</html>
